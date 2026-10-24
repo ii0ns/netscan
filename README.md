@@ -29,5 +29,4 @@ Enter a network in CIDR notation (e.g. `192.168.1.0/24`), then pick a scan.
 
 ## Output
 Each scan creates a timestamped folder with `.txt` and `.xml` results and,
-when possible, an `.html` report. Folders are given back to the user who ran
-`sudo`. Ctrl-C cancels the current scan and does the same.
+when possible, an `.html` report.
